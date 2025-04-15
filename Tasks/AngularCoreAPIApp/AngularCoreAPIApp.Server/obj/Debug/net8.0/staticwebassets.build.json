@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "sfFI4qZicQSRYaQyeB57FJYpTjG6nLLlkCOkkbeVOUY=",
+  "Source": "AngularCoreAPIApp.Server",
+  "BasePath": "_content/AngularCoreAPIApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\OrangeAcadyme\\Core API\\Core_API\\Tasks\\AngularCoreAPIApp\\angularcoreapiapp.client\\angularcoreapiapp.client.esproj",
+      "Version": 2,
+      "Source": "angularcoreapiapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

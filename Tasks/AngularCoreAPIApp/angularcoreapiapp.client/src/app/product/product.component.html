@@ -1,0 +1,12 @@
+
+
+
+<div style="display: inline-block;">
+  <div  class="card" style="width: 18rem;" *ngFor="let item of AllProducts">
+    <div class="card-body">
+      <h5 class="card-title">{{item.name}}</h5>
+      <p class="card-text">{{item.description}}</p>
+      <a routerLink="/productById/{{item.id}}" class="btn btn-primary">Get Product By Id</a>
+    </div>
+  </div>
+</div>

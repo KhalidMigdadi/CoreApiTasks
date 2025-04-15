@@ -1,0 +1,23 @@
+<h2>Categories</h2>
+
+
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let category of categories">
+      <td>
+        {{ category.name }}
+      </td>
+      <td>
+        {{category.description}}
+      </td>
+    </tr>
+   
+  </tbody>
+</table>

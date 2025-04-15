@@ -1,0 +1,1 @@
+C:\OrangeAcadyme\Core API\Core_API\Tasks\AngularCoreAPIApp\angularcoreapiapp.client\obj\Debug\angularcoreapiapp.client.esproj.CoreCompileInputs.cache

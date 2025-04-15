@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:55539",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\OrangeAcadyme\\Core API\\Core_API\\Tasks\\AngularCoreAPIApp\\AngularCoreAPIApp.Server\\..\\angularcoreapiapp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

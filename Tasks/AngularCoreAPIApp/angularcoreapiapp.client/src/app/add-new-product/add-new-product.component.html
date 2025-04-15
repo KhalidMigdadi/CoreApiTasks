@@ -1,0 +1,12 @@
+<form #add="ngForm" (ngSubmit)="addProductComp()">
+  <div class="mb-3">
+    <label class="form-label">Name</label>
+    <input type="text" class="form-control" name="name" [(ngModel)]="product.name" required>
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Description</label>
+    <input type="text" class="form-control" name="description" [(ngModel)]="product.description" required>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
